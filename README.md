@@ -5,4 +5,4 @@
 使用说明：下载运行即可，小程序还需配”微信小程序AppId“。
 
 效果展示：
-![image](https://github.com/zhengwenming/WMPlayer/blob/master/WMPlayer/Resource/WMPlayer.gif)   
+![image](https://github.com/Tom-grb/Offline_Two_Player_Gomoku/blob/main/73f6941d2f8bfff4f27cdcdd1e629fe4-ezgif.com-crop.gif)   
